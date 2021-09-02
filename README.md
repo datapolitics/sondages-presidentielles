@@ -40,3 +40,4 @@ Cela signifie que la donnée correspondante n'était pas présente dans la table
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
+This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Metasyntactic_variable">"Metasyntactic_variable"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
