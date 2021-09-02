@@ -41,3 +41,11 @@ Cela signifie que la donnée correspondante n'était pas présente dans la table
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 This article uses material from the Wikipedia article <a href="https://en.wikipedia.org/wiki/Metasyntactic_variable">"Metasyntactic_variable"</a>, which is released under the <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-Share-Alike License 3.0</a>.
+
+Pages wikipédia utilisées : 
+- https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27élection_présidentielle_française_de_2017
+- https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27élection_présidentielle_française_de_2012
+- https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27élection_présidentielle_française_de_2007
+- https://fr.wikipedia.org/wiki/Liste_de_sondages_sur_l%27élection_présidentielle_française_de_2002
+- https://fr.wikipedia.org/wiki/Élection_présidentielle_française_de_1995
+- https://fr.wikipedia.org/wiki/Élection_présidentielle_française_de_1988
