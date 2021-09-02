@@ -1,4 +1,4 @@
-# presidentielle
+# sondages-presidentielles
 
 Ce repository contient les datasets suivants : 
 
