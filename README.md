@@ -28,7 +28,7 @@ Aucune dépendance
 
 - **notations.json** contient la notation attribuée à chaque sondage par l'agrégateur de datapolitics [voir méthodologie ici]( https://datapolitics.fr/methologie-notation-sondeurs/). Pour les candidats avec trop peu de sondages, il n'y a pas de tendance calculée.
 
-- **presidentielleX** est contient l'ensemble des données des sondages de la campagne présidentielle de l'année X extraites des tables wikipédia des pages concernant les diffférentes élections. Il y a un fichier json par élection
+- **presidentielleX** est contient l'ensemble des données des sondages de la campagne présidentielle de l'année X extraites des tables wikipédia des pages concernant les diffférentes élections. Il y a un fichier json par élection, pour les élections de 1988 à 2017.
 
 - **resultats_presidentielles.json** est l'ensemble des résultats nationaux des élections présidentielle en France entre 1988 et 2017
 
