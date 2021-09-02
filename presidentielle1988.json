@@ -1,0 +1,2252 @@
+[
+   {
+      "id":"13485810-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1987-10-21",
+      "fin_enquete":"1987-10-25",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.lemonde.fr\/societe\/infographie\/2006\/09\/14\/les-precedents-sondages-pour-les-presidentielles_813205_3224.html",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"39",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"13485810-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1987-10-21",
+      "fin_enquete":"1987-10-25",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.lemonde.fr\/societe\/infographie\/2006\/09\/14\/les-precedents-sondages-pour-les-presidentielles_813205_3224.html",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"33",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"13485810-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1987-10-21",
+      "fin_enquete":"1987-10-25",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.lemonde.fr\/societe\/infographie\/2006\/09\/14\/les-precedents-sondages-pour-les-presidentielles_813205_3224.html",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":"31",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"23",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134898a2-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1987-11-07",
+      "fin_enquete":"1987-11-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"38",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"24.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"18",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"1348b9e0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1987-12-04",
+      "fin_enquete":"1987-12-08",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"38",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134ce7d6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-01-08",
+      "fin_enquete":"1988-01-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-elections-presidentielles-intentions.php#1988",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"40",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"23",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"19.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134cff50-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-01-11",
+      "fin_enquete":"1988-01-20",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/election-presidentielle-88-intentions-vote-et-image-candidats-27-1",
+      "echantillon":3000.0,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"37",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d2818-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-01-20",
+      "fin_enquete":"1988-01-26",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/barometre-election-presidentielle-intentions-vote-07",
+      "echantillon":1500.0,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"41.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"21.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d43b6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-02-01",
+      "fin_enquete":"1988-02-03",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"39",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"22",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d5bbc-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-02-01",
+      "fin_enquete":"1988-02-04",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/sondage-mensuel-l-election-presiden-tielle-2",
+      "echantillon":1898.0,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"5.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"36",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"1.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"23",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d70f2-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-02-15",
+      "fin_enquete":"1988-02-19",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/sondage-mensuel-l-election-presiden-tielle-1",
+      "echantillon":1900.0,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"6.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"35.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"1.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"23",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d852e-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-03-01",
+      "fin_enquete":"1988-03-03",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"5.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"38",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"21.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134d9bb8-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-01",
+      "fin_enquete":"1988-04-02",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"37",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"15",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134dafc2-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-08",
+      "fin_enquete":"1988-04-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"36",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"23.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"134dc552-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-20",
+      "fin_enquete":"1988-04-21",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":null,
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"1.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Boussel",
+            "parti":"MPPT",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Andr\u00e9 Lajoinie",
+            "parti":"PCF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Pierre Juquin",
+            "parti":"DVG",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"PS",
+            "intentions":"35",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Antoine Waechter",
+            "parti":"LV",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Raymond Barre",
+            "parti":"UDF",
+            "intentions":"16.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Fran\u00e7ois L\u00e9otard",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"23.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a1d7a-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1986-02-08",
+      "fin_enquete":"1986-02-15",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/election-presidentielle-candidatures-et-intentions-vote-1-12-11",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a2c66-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1986-06-20",
+      "fin_enquete":"1986-06-25",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/elections-presidentielle-88-intentions-vote-et-transferts-voix",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a3f3a-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1986-08-18",
+      "fin_enquete":"1986-08-22",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/election-presidentielle-88-candidats-et-intentions-vote-13-11",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a52ea-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1987-05-11",
+      "fin_enquete":"1987-05-16",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/barometre-election-presidentielle-intentions-de-vote-et-souhaits-5",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a5e66-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1987-11-07",
+      "fin_enquete":"1987-11-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a6b0e-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1987-12-04",
+      "fin_enquete":"1987-12-08",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a7612-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-01-08",
+      "fin_enquete":"1988-01-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a80c6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-01-11",
+      "fin_enquete":"1988-01-20",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.ipsos.fr\/sondages\/election-presidentielle-88-intentions-vote-et-image-candidats-27-1",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a8b66-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-02-01",
+      "fin_enquete":"1988-02-03",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135a98fe-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-02-16",
+      "fin_enquete":"1988-02-19",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/election-presidentielle-88-intentions-de-vote-et-reports-de-voix",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135aa3d0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-03-01",
+      "fin_enquete":"1988-03-03",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135aae66-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-03-15",
+      "fin_enquete":"1988-03-17",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/barometre-election-presidentielle-intentions-de-vote-2",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135abab4-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-03-17",
+      "fin_enquete":"1988-03-21",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/election-presidentielle-88-intentions-de-vote",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135ac572-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-03-23",
+      "fin_enquete":"1988-03-24",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/election-presidentielle-88-candidature-mitterrand-et-intentions-de-vote",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135acffe-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-03-25",
+      "fin_enquete":"1988-03-26",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/election-presidentielle-88-les-inten-tions-de-vote-0",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135ada80-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-01",
+      "fin_enquete":"1988-04-02",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135ae7be-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-04-05",
+      "fin_enquete":"1988-04-06",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/presidentielle-88-intentions-de-vote-et-candidature-le-pen",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"52",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"48",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135af236-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-08",
+      "fin_enquete":"1988-04-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135afcae-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-04-08",
+      "fin_enquete":"1988-04-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/barometre-cote-des-presidentiables-et-intentions-de-vote",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b08fc-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-20",
+      "fin_enquete":"1988-04-21",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b1388-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1988-04-24",
+      "fin_enquete":"1988-04-24",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/election-presidentielle-88-les-intentions-de-vote-au-2nd-tour",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b1edc-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-26",
+      "fin_enquete":"1988-04-27",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b2bca-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-04-29",
+      "fin_enquete":"1988-04-29",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b367e-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-05-04",
+      "fin_enquete":"1988-05-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   },
+   {
+      "id":"135b40f6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1988-05-06",
+      "fin_enquete":"1988-05-06",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"http:\/\/www.lelab2012.com\/historique-election-presidentielle-1988.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Fran\u00e7ois Mitterrand",
+            "parti":"Fran\u00e7ois Mitterrand",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1988"
+   }
+]

@@ -1,0 +1,3042 @@
+[
+   {
+      "id":"1361903c-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-03-03",
+      "fin_enquete":"1994-03-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"33",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"14",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1361ad88-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-03-24",
+      "fin_enquete":"1994-03-25",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":"25",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"29",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13621138-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-05-07",
+      "fin_enquete":"1994-05-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"28",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136223da-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-07-02",
+      "fin_enquete":"1994-07-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"8",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"28",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"16",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13623726-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-09-06",
+      "fin_enquete":"1994-09-08",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"27",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"2",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"30",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"16",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13624900-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-10-04",
+      "fin_enquete":"1994-10-06",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"29.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"1.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"28",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"14",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1362af62-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-11-05",
+      "fin_enquete":"1994-11-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"28",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"18",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1362c182-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-11-22",
+      "fin_enquete":"1994-11-24",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"31",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"25",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"15",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"8",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1362d4e2-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-12-05",
+      "fin_enquete":"1994-12-07",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"32",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"25",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1362e612-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1994-12-26",
+      "fin_enquete":"1994-12-28",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":"22",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":"10",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"25",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"14",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136b1328-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-01-10",
+      "fin_enquete":"1995-01-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"29",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136b310a-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-01-24",
+      "fin_enquete":"1995-01-26",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"32",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"18",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136b4c6c-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-02-07",
+      "fin_enquete":"1995-02-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"22.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"28",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"17.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"6.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136ba86a-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-02-21",
+      "fin_enquete":"1995-02-23",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"23.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"7.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"11",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136bd682-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-03-08",
+      "fin_enquete":"1995-03-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"9",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"7.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"10.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c3758-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-03-11",
+      "fin_enquete":"1995-03-13",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"27",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"6.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c4bd0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-03-21",
+      "fin_enquete":"1995-03-22",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"22",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"2.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"17",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"7",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"13",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c5d28-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-03-25",
+      "fin_enquete":"1995-03-27",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"18",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"6.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"13",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":"0",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c70ce-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-04-04",
+      "fin_enquete":"1995-04-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"22",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"20",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"5.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"12",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c81fe-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-04-08",
+      "fin_enquete":"1995-04-10",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"4.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"19",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"13",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":"0",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136c94b4-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-04-13",
+      "fin_enquete":"1995-04-14",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"8.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"21",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"3.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"16",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"26",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"6.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"13",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"136ca5ee-f392-11eb-816b-0242ac120002",
+      "nom_institut":"TNS Sofres",
+      "debut_enquete":"1995-04-20",
+      "fin_enquete":"1995-04-21",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"PAS_DE_LIEN",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Premier tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Arlette Laguiller",
+            "parti":"LO",
+            "intentions":"5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Robert Hue",
+            "parti":"PCF",
+            "intentions":"9.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Michel Rocard",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Delors",
+            "parti":"PS",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"PS",
+            "intentions":"20.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Dominique Voynet",
+            "parti":"Verts",
+            "intentions":"4",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Val\u00e9ry Giscard d'Estaing",
+            "parti":"UDF",
+            "intentions":null,
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"\u00c9douard Balladur",
+            "parti":"RPR",
+            "intentions":"16.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"RPR",
+            "intentions":"24",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Philippe de Villiers",
+            "parti":"MPF",
+            "intentions":"6",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jean-Marie Le Pen",
+            "parti":"FN",
+            "intentions":"14",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Jacques Cheminade",
+            "parti":"FNS",
+            "intentions":"0.5",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373b8f2-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-01-10",
+      "fin_enquete":"1995-01-12",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"51",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"49",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373c658-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-01-24",
+      "fin_enquete":"1995-01-26",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373d148-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-02-04",
+      "fin_enquete":"1995-02-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/02\/10\/sondages-jospin-et-chirac-au-coude-a-coude-pour-le-premier-tour_123980",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373dbde-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-02-07",
+      "fin_enquete":"1995-02-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"52",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"48",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373e912-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-02-17",
+      "fin_enquete":"1995-02-20",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/02\/22\/sondages-credite-de-22-jospin-coiffe-balladur-et-chirac-au-premier-tour-ou-talonne-le-premier-minist_122506",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373f3d0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"BVA",
+      "debut_enquete":"1995-02-17",
+      "fin_enquete":"1995-02-20",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/02\/22\/sondages-credite-de-22-jospin-coiffe-balladur-et-chirac-au-premier-tour-ou-talonne-le-premier-minist_122506",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1373fe66-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-02-21",
+      "fin_enquete":"1995-02-23",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13740938-f392-11eb-816b-0242ac120002",
+      "nom_institut":"CSA",
+      "debut_enquete":"1995-02-28",
+      "fin_enquete":"1995-03-01",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/evenement\/1995\/03\/03\/sondages-chirac-devance-balladur-au-second-tour_128284",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1374b568-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-03-01",
+      "fin_enquete":"1995-03-01",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/evenement\/1995\/03\/03\/sondages-chirac-devance-balladur-au-second-tour_128284",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1374c0c6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ifop",
+      "debut_enquete":"1995-03-02",
+      "fin_enquete":"1995-03-03",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/08\/sondages-chirac-donne-vainqueur-dans-tous-les-cas-de-figure_127767",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1374cb70-f392-11eb-816b-0242ac120002",
+      "nom_institut":"BVA",
+      "debut_enquete":"1995-03-02",
+      "fin_enquete":"1995-03-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/08\/sondages-chirac-donne-vainqueur-dans-tous-les-cas-de-figure_127767",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1374d782-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1995-03-06",
+      "fin_enquete":"1995-03-06",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/lelection-presidentielle-4",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1374e20e-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-03-08",
+      "fin_enquete":"1995-03-09",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13758e20-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ifop",
+      "debut_enquete":"1995-03-09",
+      "fin_enquete":"1995-03-10",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france\/1995\/03\/13\/une-mauvaise-pente-difficile-a-remonter_127339",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"59",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"41",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1375c52a-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-03-10",
+      "fin_enquete":"1995-03-11",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/15\/chirac-reste-en-tete-selon-un-sondage_127015",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"59",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"41",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"137612e6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-03-11",
+      "fin_enquete":"1995-03-13",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"60",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"40",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"137644b4-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-03-15",
+      "fin_enquete":"1995-03-15",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/17\/chirac-toujours-en-hausse-balladur-perd-cinq-points-selon-un-sondage_126709",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"56",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"44",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"137662f0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-03-21",
+      "fin_enquete":"1995-03-22",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"58",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"42",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"137682e4-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Louis Harris",
+      "debut_enquete":"1995-03-22",
+      "fin_enquete":"1995-03-22",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/24\/sondages-chirac-recule-mais-gagne-dans-tous-les-cas-de-figure_126037",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13768db6-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ifop",
+      "debut_enquete":"1995-03-23",
+      "fin_enquete":"1995-03-24",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.liberation.fr\/france-archive\/1995\/03\/29\/sondages-chirac-fait-du-sur-place-balladur-en-profite-un-peu_125598",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"58",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"42",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13769842-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-03-25",
+      "fin_enquete":"1995-03-27",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1376f8a0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-04-04",
+      "fin_enquete":"1995-04-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13770426-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Ipsos",
+      "debut_enquete":"1995-04-11",
+      "fin_enquete":"1995-04-13",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/www.ipsos.com\/fr-fr\/intentions-de-vote-la-presidentielle-21",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"59",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"41",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13770ee4-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-04-13",
+      "fin_enquete":"1995-04-14",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"52",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"48",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13772000-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-04-20",
+      "fin_enquete":"1995-04-21",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"57",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"43",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13772b18-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-04-24",
+      "fin_enquete":"1995-04-24",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"55",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"45",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"13773626-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-04-28",
+      "fin_enquete":"1995-04-29",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"54",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"46",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   },
+   {
+      "id":"1377d3b0-f392-11eb-816b-0242ac120002",
+      "nom_institut":"Sofres",
+      "debut_enquete":"1995-05-04",
+      "fin_enquete":"1995-05-05",
+      "commanditaire":"A_INSERER_MANUELLEMENT",
+      "lien":"https:\/\/lelab2012.com\/historique-election-presidentielle-1995.php",
+      "echantillon":"A_INSERER_MANUELLEMENT",
+      "population":"A_INSERER_MANUELLEMENT",
+      "tour":"Deuxi\u00e8me tour",
+      "hypothese":"",
+      "sous_echantillon":"",
+      "resultats":[
+         {
+            "candidat":"Jacques Chirac",
+            "parti":"Jacques Chirac",
+            "intentions":"53",
+            "erreur_sup":"",
+            "erreur_inf":""
+         },
+         {
+            "candidat":"Lionel Jospin",
+            "parti":"Lionel Jospin",
+            "intentions":"47",
+            "erreur_sup":"",
+            "erreur_inf":""
+         }
+      ],
+      "election":"presidentielle1995"
+   }
+]

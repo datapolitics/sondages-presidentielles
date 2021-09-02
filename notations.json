@@ -1,0 +1,135 @@
+{
+    "BVA": {
+        "nombre_sondages": 138,
+        "performance": -0.19,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.55,
+        "pourcentage_resultat_OK_30jours": 0.62
+    },
+    "CSA": {
+        "nombre_sondages": 89,
+        "performance": -0.26,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.57,
+        "pourcentage_resultat_OK_30jours": 0.71
+    },
+    "Cevipof Ipsos Sopra Steria": {
+        "nombre_sondages": 42,
+        "performance": 0.37,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.38,
+        "pourcentage_resultat_OK_30jours": 0.44
+    },
+    "Dedicated Research": {
+        "nombre_sondages": 2,
+        "performance": -0.13,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.53,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Elabe": {
+        "nombre_sondages": 84,
+        "performance": 0.16,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.44,
+        "pourcentage_resultat_OK_30jours": 0.46
+    },
+    "Harris Interactive": {
+        "nombre_sondages": 60,
+        "performance": 0.15,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.45,
+        "pourcentage_resultat_OK_30jours": 0.5
+    },
+    "Ifop": {
+        "nombre_sondages": 165,
+        "performance": -0.06,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.51,
+        "pourcentage_resultat_OK_30jours": 0.68
+    },
+    "Ifop-Fiducial": {
+        "nombre_sondages": 58,
+        "performance": 1.59,
+        "performance_lettre": "D",
+        "performance_normalisee": 0.0,
+        "pourcentage_resultat_OK_30jours": 0.73
+    },
+    "Ipsos": {
+        "nombre_sondages": 160,
+        "performance": -0.44,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.63,
+        "pourcentage_resultat_OK_30jours": 0.67
+    },
+    "Ipsos Sopra Steria": {
+        "nombre_sondages": 5,
+        "performance": 0.81,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.24,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Kantar Sofres": {
+        "nombre_sondages": 1,
+        "performance": -0.65,
+        "performance_lettre": "A+",
+        "performance_normalisee": 0.7,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Kantar Sofres - OnePoint": {
+        "nombre_sondages": 41,
+        "performance": 0.44,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.36,
+        "pourcentage_resultat_OK_30jours": 0.31
+    },
+    "LH2": {
+        "nombre_sondages": 43,
+        "performance": -0.59,
+        "performance_lettre": "A+",
+        "performance_normalisee": 0.68,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Louis Harris": {
+        "nombre_sondages": 14,
+        "performance": 0.77,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.25,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Odoxa": {
+        "nombre_sondages": 31,
+        "performance": 0.88,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.22,
+        "pourcentage_resultat_OK_30jours": 0.64
+    },
+    "OpinionWay": {
+        "nombre_sondages": 56,
+        "performance": 0.56,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.32,
+        "pourcentage_resultat_OK_30jours": 0.62
+    },
+    "Redfield & Wilton Strategies": {
+        "nombre_sondages": 0,
+        "performance": 0.04,
+        "performance_lettre": "Pas not\u00e9",
+        "performance_normalisee": 0.48,
+        "pourcentage_resultat_OK_30jours": "null"
+    },
+    "Scan Research - Le Terrain": {
+        "nombre_sondages": 14,
+        "performance": -1.63,
+        "performance_lettre": "A++",
+        "performance_normalisee": 1.0,
+        "pourcentage_resultat_OK_30jours": 0.25
+    },
+    "TNS Sofres": {
+        "nombre_sondages": 141,
+        "performance": -0.2,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.56,
+        "pourcentage_resultat_OK_30jours": 0.71
+    }
+}
