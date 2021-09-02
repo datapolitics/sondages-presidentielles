@@ -22,7 +22,7 @@ Aucune dépendance
 
 - **candidats2022.json** est la la liste des candidats déclarés ou préssentis, avec des information sur leur parti, leur couleur politique et leur déclaration de candidature. Ce fichier sera mis à jour au cours de la campagne. 
 
-- **race2022.json** est la liste des candidats avec pour chacun d'eux, le score estimé lors du dernier sondage réalisé, ainsi que la tendance (hausse, baisse, stagnation). La tendance est calculée sur les 2 derniers points d'une régression polynomiale locale [régression polynomiale locale]( https://en.wikipedia.org/wiki/Local_regression). Pour les candidats avec trop peu de sondages, il n'y a pas de tendance calculée.
+- **race2022.json** est la liste des candidats avec pour chacun d'eux, le score estimé lors du dernier sondage réalisé, ainsi que la tendance (hausse, baisse, stagnation). La tendance est calculée sur les 2 derniers points d'une agrégation en plusieurs étapes [voir méthodologie ici]( https://datapolitics.fr/methologie-notation-sondeurs/). Pour les candidats avec trop peu de sondages, il n'y a pas de tendance calculée.
 
 - **presidentielleX** est contient l'ensemble des données des sondages de la campagne présidentielle de l'année X extraites des tables wikipédia des pages concernant les diffférentes élections. Il y a un fichier json par élection
 
