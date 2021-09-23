@@ -9,7 +9,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Anasse Kazib",
@@ -21,7 +23,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Anne Hidalgo",
@@ -31,9 +35,11 @@
       "couleur":"Gauche mod\u00e9r\u00e9e",
       "date_declaration":"",
       "date_retrait":"null",
-      "tendance":"unknown",
-      "dernier score":7.8,
-      "dernier score agr\u00e9g\u00e9":7.92
+      "tendance":"increasing",
+      "dernier score":6.8,
+      "dernier score agr\u00e9g\u00e9":6.79,
+      "dernier score agr\u00e9g\u00e9 min":5.06,
+      "dernier score agr\u00e9g\u00e9 max":8.51
    },
    {
       "nom":"Antoine Martinez",
@@ -45,7 +51,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Arnaud Montebourg",
@@ -55,9 +63,11 @@
       "couleur":"Gauche mod\u00e9r\u00e9e",
       "date_declaration":"null",
       "date_retrait":"null",
-      "tendance":"null",
-      "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "tendance":"increasing",
+      "dernier score":2.5,
+      "dernier score agr\u00e9g\u00e9":2.47,
+      "dernier score agr\u00e9g\u00e9 min":1.38,
+      "dernier score agr\u00e9g\u00e9 max":3.55
    },
    {
       "nom":"Clara Egger",
@@ -69,7 +79,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Delphine Batho",
@@ -81,7 +93,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Denis Payre",
@@ -93,7 +107,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Emmanuel Macron",
@@ -104,8 +120,10 @@
       "date_declaration":"",
       "date_retrait":"null",
       "tendance":"decreasing",
-      "dernier score":23.8,
-      "dernier score agr\u00e9g\u00e9":23.82
+      "dernier score":24.7,
+      "dernier score agr\u00e9g\u00e9":24.75,
+      "dernier score agr\u00e9g\u00e9 min":21.79,
+      "dernier score agr\u00e9g\u00e9 max":27.72
    },
    {
       "nom":"Eric Ciotti",
@@ -117,7 +135,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Eric Piolle",
@@ -129,7 +149,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Eric Zemmour",
@@ -139,9 +161,11 @@
       "couleur":"Extr\u00eame droite",
       "date_declaration":"",
       "date_retrait":"null",
-      "tendance":"null",
-      "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "tendance":"increasing",
+      "dernier score":9.1,
+      "dernier score agr\u00e9g\u00e9":9.05,
+      "dernier score agr\u00e9g\u00e9 min":6.9,
+      "dernier score agr\u00e9g\u00e9 max":11.19
    },
    {
       "nom":"Fabien Roussel",
@@ -151,9 +175,11 @@
       "couleur":"Gauche radicale",
       "date_declaration":"2021-05-09",
       "date_retrait":"null",
-      "tendance":"decreasing",
-      "dernier score":2.0,
-      "dernier score agr\u00e9g\u00e9":2.0
+      "tendance":"stable",
+      "dernier score":2.6,
+      "dernier score agr\u00e9g\u00e9":2.59,
+      "dernier score agr\u00e9g\u00e9 min":1.5,
+      "dernier score agr\u00e9g\u00e9 max":3.68
    },
    {
       "nom":"Florian Philippot",
@@ -163,9 +189,11 @@
       "couleur":"Extr\u00eame droite",
       "date_declaration":"2021-07-11",
       "date_retrait":"null",
-      "tendance":"null",
-      "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "tendance":"stable",
+      "dernier score":0.9,
+      "dernier score agr\u00e9g\u00e9":0.9,
+      "dernier score agr\u00e9g\u00e9 min":0.29,
+      "dernier score agr\u00e9g\u00e9 max":1.51
    },
    {
       "nom":"Fran\u00e7ois Asselineau",
@@ -175,9 +203,11 @@
       "couleur":"Inclassable",
       "date_declaration":"2019-04-04",
       "date_retrait":"null",
-      "tendance":"stable",
-      "dernier score":1.1,
-      "dernier score agr\u00e9g\u00e9":1.09
+      "tendance":"decreasing",
+      "dernier score":0.2,
+      "dernier score agr\u00e9g\u00e9":0.2,
+      "dernier score agr\u00e9g\u00e9 min":0.07,
+      "dernier score agr\u00e9g\u00e9 max":0.33
    },
    {
       "nom":"H\u00e9l\u00e8ne Thouy",
@@ -189,7 +219,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Jacline Mouraud",
@@ -201,7 +233,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Jean Lassalle",
@@ -212,8 +246,10 @@
       "date_declaration":"2021-03-16",
       "date_retrait":"null",
       "tendance":"decreasing",
-      "dernier score":1.35,
-      "dernier score agr\u00e9g\u00e9":1.39
+      "dernier score":1.0,
+      "dernier score agr\u00e9g\u00e9":1.02,
+      "dernier score agr\u00e9g\u00e9 min":0.46,
+      "dernier score agr\u00e9g\u00e9 max":1.59
    },
    {
       "nom":"Jean-Christophe Lagarde",
@@ -223,9 +259,11 @@
       "couleur":"Centre",
       "date_declaration":"",
       "date_retrait":"null",
-      "tendance":"increasing",
-      "dernier score":0.85,
-      "dernier score agr\u00e9g\u00e9":0.83
+      "tendance":"decreasing",
+      "dernier score":0.5,
+      "dernier score agr\u00e9g\u00e9":0.5,
+      "dernier score agr\u00e9g\u00e9 min":0.16,
+      "dernier score agr\u00e9g\u00e9 max":0.84
    },
    {
       "nom":"Jean-Fr\u00e9d\u00e9ric Poisson",
@@ -235,9 +273,11 @@
       "couleur":"Droite",
       "date_declaration":"2020-07-17",
       "date_retrait":"null",
-      "tendance":"unknown",
-      "dernier score":0.45,
-      "dernier score agr\u00e9g\u00e9":0.44
+      "tendance":"stable",
+      "dernier score":0.05,
+      "dernier score agr\u00e9g\u00e9":0.06,
+      "dernier score agr\u00e9g\u00e9 min":0.01,
+      "dernier score agr\u00e9g\u00e9 max":0.11
    },
    {
       "nom":"Jean-Luc M\u00e9lenchon",
@@ -247,9 +287,11 @@
       "couleur":"Gauche radicale",
       "date_declaration":"2020-11-12",
       "date_retrait":"null",
-      "tendance":"increasing",
+      "tendance":"stable",
       "dernier score":9.5,
-      "dernier score agr\u00e9g\u00e9":9.32
+      "dernier score agr\u00e9g\u00e9":9.44,
+      "dernier score agr\u00e9g\u00e9 min":7.44,
+      "dernier score agr\u00e9g\u00e9 max":11.43
    },
    {
       "nom":"Jean-Marc Governatori",
@@ -261,7 +303,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Marie Cau",
@@ -273,7 +317,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Marine Le Pen",
@@ -284,8 +330,10 @@
       "date_declaration":"2020-01-16",
       "date_retrait":"null",
       "tendance":"decreasing",
-      "dernier score":22.95,
-      "dernier score agr\u00e9g\u00e9":22.81
+      "dernier score":20.3,
+      "dernier score agr\u00e9g\u00e9":20.31,
+      "dernier score agr\u00e9g\u00e9 min":17.56,
+      "dernier score agr\u00e9g\u00e9 max":23.07
    },
    {
       "nom":"Martin Rocca",
@@ -297,7 +345,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Michel Barnier",
@@ -309,7 +359,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Nathalie Arthaud",
@@ -319,9 +371,11 @@
       "couleur":"Extr\u00eame Gauche",
       "date_declaration":"2020-12-20",
       "date_retrait":"null",
-      "tendance":"increasing",
-      "dernier score":0.85,
-      "dernier score agr\u00e9g\u00e9":0.83
+      "tendance":"stable",
+      "dernier score":0.6,
+      "dernier score agr\u00e9g\u00e9":0.58,
+      "dernier score agr\u00e9g\u00e9 min":0.19,
+      "dernier score agr\u00e9g\u00e9 max":0.97
    },
    {
       "nom":"Nicolas Dupont-Aignan",
@@ -332,8 +386,10 @@
       "date_declaration":"2020-09-26",
       "date_retrait":"null",
       "tendance":"decreasing",
-      "dernier score":3.8,
-      "dernier score agr\u00e9g\u00e9":3.81
+      "dernier score":3.6,
+      "dernier score agr\u00e9g\u00e9":3.63,
+      "dernier score agr\u00e9g\u00e9 min":2.37,
+      "dernier score agr\u00e9g\u00e9 max":4.89
    },
    {
       "nom":"Philippe Juvin",
@@ -345,7 +401,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Philippe Poutou",
@@ -357,7 +415,9 @@
       "date_retrait":"null",
       "tendance":"stable",
       "dernier score":1.0,
-      "dernier score agr\u00e9g\u00e9":1.0
+      "dernier score agr\u00e9g\u00e9":1.0,
+      "dernier score agr\u00e9g\u00e9 min":0.32,
+      "dernier score agr\u00e9g\u00e9 max":1.68
    },
    {
       "nom":"Pierre Larrouturou",
@@ -369,7 +429,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Sandrine Rousseau",
@@ -381,7 +443,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"St\u00e9phane Le Foll",
@@ -393,7 +457,9 @@
       "date_retrait":"null",
       "tendance":"null",
       "dernier score":"null",
-      "dernier score agr\u00e9g\u00e9":"null"
+      "dernier score agr\u00e9g\u00e9":"null",
+      "dernier score agr\u00e9g\u00e9 min":"null",
+      "dernier score agr\u00e9g\u00e9 max":"null"
    },
    {
       "nom":"Val\u00e9rie P\u00e9cresse",
@@ -404,8 +470,10 @@
       "date_declaration":"2021-07-22",
       "date_retrait":"null",
       "tendance":"unknown",
-      "dernier score":11.6,
-      "dernier score agr\u00e9g\u00e9":11.76
+      "dernier score":14.0,
+      "dernier score agr\u00e9g\u00e9":13.98,
+      "dernier score agr\u00e9g\u00e9 min":11.43,
+      "dernier score agr\u00e9g\u00e9 max":16.54
    },
    {
       "nom":"Xavier Bertrand",
@@ -416,8 +484,10 @@
       "date_declaration":"2021-03-16",
       "date_retrait":"null",
       "tendance":"unknown",
-      "dernier score":15.95,
-      "dernier score agr\u00e9g\u00e9":16.07
+      "dernier score":14.9,
+      "dernier score agr\u00e9g\u00e9":14.9,
+      "dernier score agr\u00e9g\u00e9 min":12.49,
+      "dernier score agr\u00e9g\u00e9 max":17.31
    },
    {
       "nom":"Yannick Jadot",
@@ -427,8 +497,10 @@
       "couleur":"\u00c9cologistes",
       "date_declaration":"2021-06-30",
       "date_retrait":"null",
-      "tendance":"decreasing",
-      "dernier score":8.4,
-      "dernier score agr\u00e9g\u00e9":8.66
+      "tendance":"unknown",
+      "dernier score":6.8,
+      "dernier score agr\u00e9g\u00e9":6.8,
+      "dernier score agr\u00e9g\u00e9 min":5.07,
+      "dernier score agr\u00e9g\u00e9 max":8.53
    }
 ]

@@ -1,135 +1,135 @@
 {
     "BVA": {
         "nombre_sondages": 138,
-        "performance": -0.19,
+        "performance": -0.15,
         "performance_lettre": "A",
-        "performance_normalisee": 0.55,
+        "performance_normalisee": 0.54,
         "pourcentage_resultat_OK_30jours": 0.62
     },
     "CSA": {
         "nombre_sondages": 89,
-        "performance": -0.26,
+        "performance": -0.08,
         "performance_lettre": "A",
-        "performance_normalisee": 0.57,
+        "performance_normalisee": 0.51,
         "pourcentage_resultat_OK_30jours": 0.71
     },
     "Cevipof Ipsos Sopra Steria": {
         "nombre_sondages": 42,
-        "performance": 0.37,
+        "performance": 0.14,
         "performance_lettre": "B",
-        "performance_normalisee": 0.38,
+        "performance_normalisee": 0.41,
         "pourcentage_resultat_OK_30jours": 0.44
     },
     "Dedicated Research": {
         "nombre_sondages": 2,
-        "performance": -0.13,
-        "performance_lettre": "A",
-        "performance_normalisee": 0.53,
+        "performance": 0.74,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.13,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Elabe": {
         "nombre_sondages": 84,
-        "performance": 0.16,
-        "performance_lettre": "B",
-        "performance_normalisee": 0.44,
+        "performance": -0.0,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.47,
         "pourcentage_resultat_OK_30jours": 0.46
     },
     "Harris Interactive": {
         "nombre_sondages": 60,
-        "performance": 0.15,
+        "performance": 0.11,
         "performance_lettre": "B",
-        "performance_normalisee": 0.45,
+        "performance_normalisee": 0.42,
         "pourcentage_resultat_OK_30jours": 0.5
     },
     "Ifop": {
         "nombre_sondages": 165,
-        "performance": -0.06,
+        "performance": -0.12,
         "performance_lettre": "A",
-        "performance_normalisee": 0.51,
+        "performance_normalisee": 0.53,
         "pourcentage_resultat_OK_30jours": 0.68
     },
     "Ifop-Fiducial": {
         "nombre_sondages": 58,
-        "performance": 1.59,
-        "performance_lettre": "D",
-        "performance_normalisee": 0.0,
+        "performance": 0.89,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.07,
         "pourcentage_resultat_OK_30jours": 0.73
     },
     "Ipsos": {
         "nombre_sondages": 160,
-        "performance": -0.44,
+        "performance": -0.28,
         "performance_lettre": "A",
-        "performance_normalisee": 0.63,
+        "performance_normalisee": 0.6,
         "pourcentage_resultat_OK_30jours": 0.67
     },
     "Ipsos Sopra Steria": {
         "nombre_sondages": 5,
-        "performance": 0.81,
-        "performance_lettre": "C",
-        "performance_normalisee": 0.24,
+        "performance": 1.03,
+        "performance_lettre": "D",
+        "performance_normalisee": 0.0,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Kantar Sofres": {
         "nombre_sondages": 1,
-        "performance": -0.65,
-        "performance_lettre": "A+",
-        "performance_normalisee": 0.7,
+        "performance": 0.55,
+        "performance_lettre": "C",
+        "performance_normalisee": 0.22,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Kantar Sofres - OnePoint": {
         "nombre_sondages": 41,
-        "performance": 0.44,
+        "performance": 0.22,
         "performance_lettre": "B",
-        "performance_normalisee": 0.36,
+        "performance_normalisee": 0.37,
         "pourcentage_resultat_OK_30jours": 0.31
     },
     "LH2": {
         "nombre_sondages": 43,
-        "performance": -0.59,
-        "performance_lettre": "A+",
-        "performance_normalisee": 0.68,
+        "performance": -0.34,
+        "performance_lettre": "A",
+        "performance_normalisee": 0.63,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Louis Harris": {
         "nombre_sondages": 14,
-        "performance": 0.77,
+        "performance": 0.69,
         "performance_lettre": "C",
-        "performance_normalisee": 0.25,
+        "performance_normalisee": 0.16,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Odoxa": {
         "nombre_sondages": 31,
-        "performance": 0.88,
+        "performance": 0.53,
         "performance_lettre": "C",
-        "performance_normalisee": 0.22,
+        "performance_normalisee": 0.23,
         "pourcentage_resultat_OK_30jours": 0.64
     },
     "OpinionWay": {
         "nombre_sondages": 56,
-        "performance": 0.56,
-        "performance_lettre": "C",
-        "performance_normalisee": 0.32,
+        "performance": 0.37,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.3,
         "pourcentage_resultat_OK_30jours": 0.62
     },
     "Redfield & Wilton Strategies": {
         "nombre_sondages": 0,
-        "performance": 0.04,
+        "performance": 0.12,
         "performance_lettre": "Pas not\u00e9",
-        "performance_normalisee": 0.48,
+        "performance_normalisee": 0.42,
         "pourcentage_resultat_OK_30jours": "null"
     },
     "Scan Research - Le Terrain": {
         "nombre_sondages": 14,
-        "performance": -1.63,
+        "performance": -1.15,
         "performance_lettre": "A++",
         "performance_normalisee": 1.0,
         "pourcentage_resultat_OK_30jours": 0.25
     },
     "TNS Sofres": {
         "nombre_sondages": 141,
-        "performance": -0.2,
-        "performance_lettre": "A",
-        "performance_normalisee": 0.56,
+        "performance": 0.02,
+        "performance_lettre": "B",
+        "performance_normalisee": 0.47,
         "pourcentage_resultat_OK_30jours": 0.71
     }
 }
