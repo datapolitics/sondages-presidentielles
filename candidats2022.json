@@ -1,1 +1,349 @@
-[{"id": "01", "nom": "Nathalie Arthaud", "parti": "Lutte ouvri\u00e8re", "parti_short": "LO", "couleur": "Extr\u00eame Gauche", "date_declaration": "2020-12-20"}, {"id": "02", "nom": "Anasse Kazib", "parti": "R\u00e9volution permanente", "parti_short": "", "couleur": "Extr\u00eame Gauche", "date_declaration": "2021-06-10"}, {"id": "03", "nom": "Philippe Poutou", "parti": "Nouveau parti anticapitaliste", "parti_short": "NPA", "couleur": "Extr\u00eame Gauche", "date_declaration": "2021-06-28"}, {"id": "04", "nom": "Jean-Luc M\u00e9lenchon", "parti": "La France insoumise", "parti_short": "LFI", "couleur": "Gauche radicale", "date_declaration": "2020-11-12"}, {"id": "05", "nom": "Fabien Roussel", "parti": "Parti communiste fran\u00e7ais", "parti_short": "PCF", "couleur": "Gauche radicale", "date_declaration": "2021-05-09"}, {"id": "06", "nom": "Pierre Larrouturou", "parti": "Nouvelle Donne", "parti_short": "", "couleur": "Gauche mod\u00e9r\u00e9e", "date_declaration": "2021-07-07"}, {"id": "07", "nom": "Anne Hidalgo", "parti": "Parti socialiste", "parti_short": "PS", "couleur": "Gauche mod\u00e9r\u00e9e", "date_declaration": ""}, {"id": "08", "nom": "Yannick Jadot", "parti": "Europe Ecologie-Les Verts", "parti_short": "EELV", "couleur": "\u00c9cologistes", "date_declaration": "2021-06-30"}, {"id": "09", "nom": "Eric Piolle", "parti": "Europe Ecologie-Les Verts", "parti_short": "EELV", "couleur": "\u00c9cologistes", "date_declaration": "2021-06-29"}, {"id": 10, "nom": "Sandrine Rousseau", "parti": "Europe Ecologie-Les Verts", "parti_short": "EELV", "couleur": "\u00c9cologistes", "date_declaration": "2020-10-26"}, {"id": 11, "nom": "Delphine Batho", "parti": "G\u00e9n\u00e9ration \u00e9cologie", "parti_short": "", "couleur": "\u00c9cologistes", "date_declaration": "2021-07-05"}, {"id": 12, "nom": "Jean-Marc Governatori", "parti": "Cap \u00e9cologie", "parti_short": "", "couleur": "\u00c9cologistes", "date_declaration": "2021-07-03"}, {"id": 13, "nom": "Jean-Christophe Lagarde", "parti": "Union des d\u00e9mocrates et ind\u00e9pendants", "parti_short": "UDI", "couleur": "Centre", "date_declaration": ""}, {"id": 14, "nom": "Emmanuel Macron", "parti": "La R\u00e9publique en marche", "parti_short": "LRM", "couleur": "Centre", "date_declaration": ""}, {"id": 15, "nom": "Xavier Bertrand", "parti": "", "parti_short": "", "couleur": "Droite", "date_declaration": "2021-03-16"}, {"id": 16, "nom": "Jean-Fr\u00e9d\u00e9ric Poisson", "parti": "VIA, la voie du peuple", "parti_short": "VIA", "couleur": "Droite", "date_declaration": "2020-07-17"}, {"id": 17, "nom": "Bruno Retailleau", "parti": "Les R\u00e9publicains", "parti_short": "LR", "couleur": "Droite", "date_declaration": "2020-08-21", "date_retrait": "2021-08-28"}, {"id": 18, "nom": "Jacline Mouraud", "parti": "Ind\u00e9pendante", "parti_short": "", "couleur": "Droite", "date_declaration": "2020-12-07"}, {"id": 19, "nom": "Val\u00e9rie P\u00e9cresse", "parti": "Libres !", "parti_short": "", "couleur": "Droite", "date_declaration": "2021-07-22"}, {"id": 20, "nom": "Laurent Wauquiez", "parti": "Les R\u00e9publicains", "parti_short": "LR", "couleur": "Droite", "date_declaration": "", "date_retrait": "2021-08-28"}, {"id": 21, "nom": "Nicolas Dupont-Aignan", "parti": "Debout la France", "parti_short": "DLF", "couleur": "Extr\u00eame droite", "date_declaration": "2020-09-26"}, {"id": 22, "nom": "Marine Le Pen", "parti": "Rassemblement national", "parti_short": "RN", "couleur": "Extr\u00eame droite", "date_declaration": "2020-01-16"}, {"id": 23, "nom": "Antoine Martinez", "parti": "Volontaires pour la France", "parti_short": "VPF", "couleur": "Extr\u00eame droite", "date_declaration": "2020-07-12"}, {"id": 24, "nom": "Eric Zemmour", "parti": "Ind\u00e9pendant", "parti_short": "", "couleur": "Extr\u00eame droite", "date_declaration": ""}, {"id": 25, "nom": "Fran\u00e7ois Asselineau", "parti": "Union populaire r\u00e9publicaine ", "parti_short": "UPR", "couleur": "Inclassable", "date_declaration": "2019-04-04"}, {"id": 26, "nom": "Jean Lassalle", "parti": "R\u00e9sistons", "parti_short": "", "couleur": "Inclassable", "date_declaration": "2021-03-16"}, {"id": 27, "nom": "Alexandre Langlois", "parti": "Refondation 20222", "parti_short": "", "couleur": "Inclassable", "date_declaration": "2021-06-02"}, {"id": 28, "nom": "Clara Egger", "parti": "Espoir RIC 2022", "parti_short": "", "couleur": "Inclassable", "date_declaration": "2021-04-26"}, {"id": 29, "nom": "H\u00e9l\u00e8ne Thouy", "parti": "Parti animaliste", "parti_short": "", "couleur": "Inclassable", "date_declaration": "2021-07-01"}, {"id": 30, "nom": "Florian Philippot", "parti": "Les Patriotes", "parti_short": "", "couleur": "Extr\u00eame droite", "date_declaration": "2021-07-11"}, {"id": 31, "nom": "Philippe Juvin", "parti": "Les R\u00e9publicains", "parti_short": "LR", "couleur": "Droite", "date_declaration": "2021-07-26"}, {"id": 32, "nom": "Martin Rocca", "parti": "", "parti_short": "", "couleur": "Inclassable", "date_declaration": "2021-01-09"}, {"id": 33, "nom": "Eric Ciotti", "parti": "Les R\u00e9publicains", "parti_short": "LR", "couleur": "Droite", "date_declaration": "2021-08-25"}, {"id": 34, "nom": "Michel Barnier", "parti": "Les R\u00e9publicains", "parti_short": "LR", "couleur": "Droite", "date_declaration": "2021-08-26"}, {"id": 35, "nom": "Denis Payre", "parti": "Nous, Citoyens", "parti_short": "", "couleur": "Droite", "date_declaration": "2021-08-29"}, {"id": 36, "nom": "St\u00e9phane Le Foll", "parti": "Parti socialiste", "parti_short": "PS", "couleur": "Gauche mod\u00e9r\u00e9e", "date_declaration": "2021-08-3"}, {"id": 37, "nom": "Arnaud Montebourg", "parti": "L'Engagement", "parti_short": "", "couleur": "Gauche mod\u00e9r\u00e9e"}, {"id": 38, "nom": "Marie Cau", "parti": "", "parti_short": "", "couleur": "Inclassable"}]
+[
+    {
+        "id": "01",
+        "nom": "Nathalie Arthaud",
+        "parti": "Lutte ouvri\u00e8re",
+        "parti_short": "LO",
+        "couleur": "Extr\u00eame Gauche",
+        "date_declaration": "2020-12-20",
+        "twitter":"n_arthaud"
+    },
+    {
+        "id": "02",
+        "nom": "Anasse Kazib",
+        "parti": "R\u00e9volution permanente",
+        "parti_short": "",
+        "couleur": "Extr\u00eame Gauche",
+        "date_declaration": "2021-06-10",
+        "twitter":"AnasseKazib"
+    },
+    {
+        "id": "03",
+        "nom": "Philippe Poutou",
+        "parti": "Nouveau parti anticapitaliste",
+        "parti_short": "NPA",
+        "couleur": "Extr\u00eame Gauche",
+        "date_declaration": "2021-06-28",
+        "twitter":"PhilippePoutou"
+    },
+    {
+        "id": "04",
+        "nom": "Jean-Luc M\u00e9lenchon",
+        "parti": "La France insoumise",
+        "parti_short": "LFI",
+        "couleur": "Gauche radicale",
+        "date_declaration": "2020-11-12",
+        "twitter":"JLMelenchon"
+    },
+    {
+        "id": "05",
+        "nom": "Fabien Roussel",
+        "parti": "Parti communiste fran\u00e7ais",
+        "parti_short": "PCF",
+        "couleur": "Gauche radicale",
+        "date_declaration": "2021-05-09",
+        "twitter":"Fabien_Roussel"
+    },
+    {
+        "id": "06",
+        "nom": "Pierre Larrouturou",
+        "parti": "Nouvelle Donne",
+        "parti_short": "",
+        "couleur": "Gauche mod\u00e9r\u00e9e",
+        "date_declaration": "2021-07-07",
+        "twitter":"larrouturou"
+    },
+    {
+        "id": "07",
+        "nom": "Anne Hidalgo",
+        "parti": "Parti socialiste",
+        "parti_short": "PS",
+        "couleur": "Gauche mod\u00e9r\u00e9e",
+        "date_declaration": "2021-09-12",
+        "twitter":"Anne_Hidalgo"
+    },
+    {
+        "id": "08",
+        "nom": "Yannick Jadot",
+        "parti": "Europe Ecologie-Les Verts",
+        "parti_short": "EELV",
+        "couleur": "\u00c9cologistes",
+        "date_declaration": "2021-06-30",
+        "twitter":"yjadot"
+    },
+    {
+        "id": "09",
+        "nom": "Eric Piolle",
+        "parti": "Europe Ecologie-Les Verts",
+        "parti_short": "EELV",
+        "couleur": "\u00c9cologistes",
+        "date_declaration": "2021-06-29",
+        "date_retrait": "2021-09-19",
+        "twitter":"EricPiolle"
+    },
+    {
+        "id": 10,
+        "nom": "Sandrine Rousseau",
+        "parti": "Europe Ecologie-Les Verts",
+        "parti_short": "EELV",
+        "couleur": "\u00c9cologistes",
+        "date_declaration": "2020-10-26",
+        "date_retrait": "2021-09-28",
+        "twitter":"sandrousseau"
+    },
+    {
+        "id": 11,
+        "nom": "Delphine Batho",
+        "parti": "G\u00e9n\u00e9ration \u00e9cologie",
+        "parti_short": "",
+        "couleur": "\u00c9cologistes",
+        "date_declaration": "2021-07-05",
+        "date_retrait": "2021-09-19",
+        "twitter":"delphinebatho"
+    },
+    {
+        "id": 12,
+        "nom": "Jean-Marc Governatori",
+        "parti": "Cap \u00e9cologie",
+        "parti_short": "",
+        "couleur": "\u00c9cologistes",
+        "date_declaration": "2021-07-03",
+        "date_retrait": "2021-09-19",
+        "twitter":"JM_Governatori"
+    },
+    {
+        "id": 13,
+        "nom": "Jean-Christophe Lagarde",
+        "parti": "Union des d\u00e9mocrates et ind\u00e9pendants",
+        "parti_short": "UDI",
+        "couleur": "Centre",
+        "date_declaration": "",
+        "twitter":"jclagarde"
+    },
+    {
+        "id": 14,
+        "nom": "Emmanuel Macron",
+        "parti": "La R\u00e9publique en marche",
+        "parti_short": "LRM",
+        "couleur": "Centre",
+        "date_declaration": "",
+        "twitter":"EmmanuelMacron"
+    },
+    {
+        "id": 15,
+        "nom": "Xavier Bertrand",
+        "parti": "",
+        "parti_short": "",
+        "couleur": "Droite",
+        "date_declaration": "2021-03-16",
+        "twitter":"xavierbertrand"
+    },
+    {
+        "id": 16,
+        "nom": "Jean-Fr\u00e9d\u00e9ric Poisson",
+        "parti": "VIA, la voie du peuple",
+        "parti_short": "VIA",
+        "couleur": "Droite",
+        "date_declaration": "2020-07-17",
+        "twitter":"jfpoisson78"
+    },
+    {
+        "id": 17,
+        "nom": "Bruno Retailleau",
+        "parti": "Les R\u00e9publicains",
+        "parti_short": "LR",
+        "couleur": "Droite",
+        "date_declaration": "2020-08-21",
+        "date_retrait": "2021-08-28",
+        "twitter":"BrunoRetailleau"
+    },
+    {
+        "id": 18,
+        "nom": "Jacline Mouraud",
+        "parti": "Ind\u00e9pendante",
+        "parti_short": "",
+        "couleur": "Droite",
+        "date_declaration": "2020-12-07",
+        "twitter":"JaclineMouraud"
+    },
+    {
+        "id": 19,
+        "nom": "Val\u00e9rie P\u00e9cresse",
+        "parti": "Libres !",
+        "parti_short": "",
+        "couleur": "Droite",
+        "date_declaration": "2021-07-22",
+        "twitter":"vpecresse"
+    },
+    {
+        "id": 20,
+        "nom": "Laurent Wauquiez",
+        "parti": "Les R\u00e9publicains",
+        "parti_short": "LR",
+        "couleur": "Droite",
+        "date_declaration": "",
+        "date_retrait": "2021-08-28",
+        "twitter":"laurentwauquiez"
+    },
+    {
+        "id": 21,
+        "nom": "Nicolas Dupont-Aignan",
+        "parti": "Debout la France",
+        "parti_short": "DLF",
+        "couleur": "Extr\u00eame droite",
+        "date_declaration": "2020-09-26",
+        "twitter":"dupontaignan"
+    },
+    {
+        "id": 22,
+        "nom": "Marine Le Pen",
+        "parti": "Rassemblement national",
+        "parti_short": "RN",
+        "couleur": "Extr\u00eame droite",
+        "date_declaration": "2020-01-16",
+        "twitter":"MLP_officiel"
+    },
+    {
+        "id": 23,
+        "nom": "Antoine Martinez",
+        "parti": "Volontaires pour la France",
+        "parti_short": "VPF",
+        "couleur": "Extr\u00eame droite",
+        "date_declaration": "2020-07-12",
+        "twitter":"antoine27955080"
+    },
+    {
+        "id": 24,
+        "nom": "Eric Zemmour",
+        "parti": "Ind\u00e9pendant",
+        "parti_short": "",
+        "couleur": "Extr\u00eame droite",
+        "date_declaration": "",
+        "twitter":"ZemmourEric"
+    },
+    {
+        "id": 25,
+        "nom": "Fran\u00e7ois Asselineau",
+        "parti": "Union populaire r\u00e9publicaine ",
+        "parti_short": "UPR",
+        "couleur": "Inclassable",
+        "date_declaration": "2019-04-04",
+        "twitter":"UPR_Asselineau"
+    },
+    {
+        "id": 26,
+        "nom": "Jean Lassalle",
+        "parti": "R\u00e9sistons",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "date_declaration": "2021-03-16",
+        "twitter":"jeanlassalle"
+    },
+    {
+        "id": 27,
+        "nom": "Alexandre Langlois",
+        "parti": "Refondation 20222",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "date_declaration": "2021-06-02",
+        "twitter":"AlexLanglois_"
+    },
+    {
+        "id": 28,
+        "nom": "Clara Egger",
+        "parti": "Espoir RIC 2022",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "date_declaration": "2021-04-26",
+        "twitter":"espoirRIC2022"
+    },
+    {
+        "id": 29,
+        "nom": "H\u00e9l\u00e8ne Thouy",
+        "parti": "Parti animaliste",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "date_declaration": "2021-07-01",
+        "twitter":"HeleneThouy"
+    },
+    {
+        "id": 30,
+        "nom": "Florian Philippot",
+        "parti": "Les Patriotes",
+        "parti_short": "",
+        "couleur": "Extr\u00eame droite",
+        "date_declaration": "2021-07-11",
+        "twitter":"f_philippot"
+    },
+    {
+        "id": 31,
+        "nom": "Philippe Juvin",
+        "parti": "Les R\u00e9publicains",
+        "parti_short": "LR",
+        "couleur": "Droite",
+        "date_declaration": "2021-07-26",
+        "twitter":"philippejuvin"
+    },
+    {
+        "id": 32,
+        "nom": "Martin Rocca",
+        "parti": "",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "date_declaration": "2021-01-09",
+        "twitter":"MartinRocca12"
+    },
+    {
+        "id": 33,
+        "nom": "Eric Ciotti",
+        "parti": "Les R\u00e9publicains",
+        "parti_short": "LR",
+        "couleur": "Droite",
+        "date_declaration": "2021-08-25",
+        "twitter":"ECiotti"
+    },
+    {
+        "id": 34,
+        "nom": "Michel Barnier",
+        "parti": "Les R\u00e9publicains",
+        "parti_short": "LR",
+        "couleur": "Droite",
+        "date_declaration": "2021-08-26",
+        "twitter":"MichelBarnier"
+    },
+    {
+        "id": 35,
+        "nom": "Denis Payre",
+        "parti": "Nous, Citoyens",
+        "parti_short": "",
+        "couleur": "Droite",
+        "date_declaration": "2021-08-29",
+        "twitter":"DenisPayre"
+    },
+    {
+        "id": 36,
+        "nom": "St\u00e9phane Le Foll",
+        "parti": "Parti socialiste",
+        "parti_short": "PS",
+        "couleur": "Gauche mod\u00e9r\u00e9e",
+        "date_declaration": "2021-08-3",
+        "twitter":"SLeFoll"
+    },
+    {
+        "id": 37,
+        "nom": "Arnaud Montebourg",
+        "parti": "L'Engagement",
+        "parti_short": "",
+        "date_declaration": "2021-09-4",
+        "couleur": "Gauche mod\u00e9r\u00e9e",
+        "twitter":"montebourg"
+    },
+    {
+        "id": 38,
+        "nom": "Marie Cau",
+        "parti": "",
+        "parti_short": "",
+        "couleur": "Inclassable",
+        "twitter":"Cau_Marie_"
+    }
+]
