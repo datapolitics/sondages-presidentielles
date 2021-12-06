@@ -136,6 +136,7 @@
         "parti_short": "",
         "couleur": "Droite",
         "date_declaration": "2021-03-16",
+        "date_retrait": "2021-12-2",
         "twitter":"xavierbertrand"
     },
     {
@@ -218,7 +219,7 @@
         "parti": "Ind\u00e9pendant",
         "parti_short": "",
         "couleur": "Extr\u00eame droite",
-        "date_declaration": "",
+        "date_declaration": "2021-11-30",
         "twitter":"ZemmourEric"
     },
     {
@@ -282,6 +283,7 @@
         "parti_short": "LR",
         "couleur": "Droite",
         "date_declaration": "2021-07-26",
+        "date_retrait": "2021-12-2",
         "twitter":"philippejuvin"
     },
     {
@@ -300,6 +302,7 @@
         "parti_short": "LR",
         "couleur": "Droite",
         "date_declaration": "2021-08-25",
+        "date_retrait": "2021-12-4",
         "twitter":"ECiotti"
     },
     {
@@ -309,6 +312,7 @@
         "parti_short": "LR",
         "couleur": "Droite",
         "date_declaration": "2021-08-26",
+        "date_retrait": "2021-12-2",
         "twitter":"MichelBarnier"
     },
     {
